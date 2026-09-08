@@ -1,1 +1,1 @@
-# git-practice
+# git-practicePracticing Git commands on Linux
